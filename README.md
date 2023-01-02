@@ -1,18 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=E2A9F3&text=이름&fontSize=50&fontColor=353535)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=F5F6CE&text=Yuwan&fontSize=45&fontColor=353535)
 
 <p align="center">
   <a href="https://puzzled-turret-0d5.notion.site/b47bda9a4fa1465fa5c47bd887973db1">
     <img src="https://img.shields.io/badge/PortFolio-CDF0EA?style=flat-square&logo=GitHub Sponsors&logoColor=black">
   </a>
 </p>
-<p align="center">
-  Hi! I'm interested in backend develop. <br />
-  ___
-</p>
 
 
-
-### :books: Education & Career
+### 📃 Education
 
 - SSAFY(Samsung SW Academy For Youth) 7th (2022.01 - 2022.12)
 
@@ -26,25 +21,23 @@
 
 <br />
 
-### ✨ Tech Stack
+### 🛠 Tech Stack
 
-> Techs that I've used at least one
-
-<p>
-  <b>Backend　</b>
+<p align="center">
+  <b>Backend</b>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
   <img src="https://img.shields.io/badge/Java-BE7928?style=flat-square&logo=OpenJDK&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-  <b>Frontend　</b>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"><br /><br />
+  <b>Frontend</b>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"><br /><br />
-  <b>Etc　</b>
+  <b>Etc</b>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white">
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white">
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"><br />
+  <br />
 </p>
 
 
