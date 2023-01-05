@@ -55,7 +55,6 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=enkong)](https://solved.ac/enkong)
 
 ## 🥼Skills
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <!--
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 **Dscwan/Dscwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
