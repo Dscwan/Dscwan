@@ -17,8 +17,9 @@
 
 |      Period       |       Category        | Project                                                      |
 | :---------------: | :-------------------: | ------------------------------------------------------------ |
-| 2022.04 - 2022.05 |          Web          | [PAJAMA](https://github.com/Dscwan/PAJAMA) (파티 플랫폼 서비스) |
-| 2022.04 - 2022.05 |          Web          | [PAJAMA](https://github.com/Dscwan/PAJAMA)|
+| 2022.10 - 2022.12 |          Web          | [TheMe](https://github.com/Dscwan/TheMe) (테마 기반 SNS 서비스) |
+| 2022.08 - 2022.10 |          Web          | [Enimal](https://github.com/Dscwan/Enimal) (멸종위기 NFT 서비스) |
+| 2022.07 - 2022.08 |          Web          | [PAJAMA](https://github.com/Dscwan/PAJAMA) (파티 플랫폼 서비스) |
 
 
 <br />
